@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Sacrifight",
+  "base_artist": "▷ せーぶぽいんと",
+  "createdAt": "2026-01-14T01:31:50.739578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fairyland (Sacrifight Army Remix)",
+      "artist": "Angelzoom",
+      "has_synced": false,
+      "path": "select/01_Fairyland_(Sacrifight_Army_Remix)_Angelzoom.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fairyland (Sacrifight Army remix / Guitars on Front)",
+      "artist": "Angelzoom",
+      "has_synced": false,
+      "path": "select/02_Fairyland_(Sacrifight_Army_remix___Guitars_on_Front)_Angelzoom.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sacrifight",
+      "artist": "▷ せーぶぽいんと",
+      "has_synced": false,
+      "path": "select/pl_01_Sacrifight_▷_せーぶぽいんと.txt"
+    }
+  ]
+}
